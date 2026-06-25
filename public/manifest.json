@@ -1,0 +1,9 @@
+{
+  "name": "Resume Builder SaaS",
+  "short_name": "ResumeBuilder",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": []
+}

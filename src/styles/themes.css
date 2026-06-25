@@ -1,0 +1,10 @@
+:root {
+  --color-brand: #2563eb;
+  --color-text: #111827;
+  --color-bg: #ffffff;
+}
+
+[data-theme='dark'] {
+  --color-text: #f9fafb;
+  --color-bg: #111827;
+}
